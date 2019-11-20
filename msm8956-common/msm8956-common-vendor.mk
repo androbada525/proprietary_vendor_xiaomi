@@ -549,6 +549,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/msm8956-common/proprietary/vendor/lib64/vendor.qti.gnss@2.1.so:system/vendor/lib64/vendor.qti.gnss@2.1.so \
     vendor/xiaomi/msm8956-common/proprietary/vendor/lib64/vendor.qti.gnss@3.0-service.so:system/vendor/lib64/vendor.qti.gnss@3.0-service.so \
     vendor/xiaomi/msm8956-common/proprietary/vendor/lib64/vendor.qti.gnss@3.0.so:system/vendor/lib64/vendor.qti.gnss@3.0.so \
+	vendor/xiaomi/msm8956-common/proprietary/vendor/lib64/libbase-hax.so:system/vendor/lib64/libbase-hax.so
 
 # Boostframework blobs 
 PRODUCT_COPY_FILES += \
